@@ -1,0 +1,14 @@
+C:\Users\cloud\source\repos\assignment_0\assignment_0\bin\Debug\netcoreapp3.1\assignment_0.exe
+C:\Users\cloud\source\repos\assignment_0\assignment_0\bin\Debug\netcoreapp3.1\assignment_0.deps.json
+C:\Users\cloud\source\repos\assignment_0\assignment_0\bin\Debug\netcoreapp3.1\assignment_0.runtimeconfig.json
+C:\Users\cloud\source\repos\assignment_0\assignment_0\bin\Debug\netcoreapp3.1\assignment_0.runtimeconfig.dev.json
+C:\Users\cloud\source\repos\assignment_0\assignment_0\bin\Debug\netcoreapp3.1\assignment_0.dll
+C:\Users\cloud\source\repos\assignment_0\assignment_0\bin\Debug\netcoreapp3.1\assignment_0.pdb
+C:\Users\cloud\source\repos\assignment_0\assignment_0\obj\Debug\netcoreapp3.1\assignment_0.csproj.AssemblyReference.cache
+C:\Users\cloud\source\repos\assignment_0\assignment_0\obj\Debug\netcoreapp3.1\assignment_0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cloud\source\repos\assignment_0\assignment_0\obj\Debug\netcoreapp3.1\assignment_0.AssemblyInfoInputs.cache
+C:\Users\cloud\source\repos\assignment_0\assignment_0\obj\Debug\netcoreapp3.1\assignment_0.AssemblyInfo.cs
+C:\Users\cloud\source\repos\assignment_0\assignment_0\obj\Debug\netcoreapp3.1\assignment_0.csproj.CoreCompileInputs.cache
+C:\Users\cloud\source\repos\assignment_0\assignment_0\obj\Debug\netcoreapp3.1\assignment_0.dll
+C:\Users\cloud\source\repos\assignment_0\assignment_0\obj\Debug\netcoreapp3.1\assignment_0.pdb
+C:\Users\cloud\source\repos\assignment_0\assignment_0\obj\Debug\netcoreapp3.1\assignment_0.genruntimeconfig.cache
