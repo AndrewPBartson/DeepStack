@@ -5,10 +5,10 @@ This code is from a tutorial from Microsoft about C# and OOP principles. Althoug
 - - -
 
 ## Links to Sources
-<br>
-**Part 1** - [https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/classes](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/classes)
 
-**Part 2** - [https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop)
+[**BankAccount Tutorial - Part 1**](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/classes)
+
+[**BankAccount Tutorial - Part 1**](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop)
 
 - - -
 
@@ -17,4 +17,4 @@ This code is from a tutorial from Microsoft about C# and OOP principles. Althoug
 **1) - I don't understand how to chain constructors.**
 **2) - Wouldn't it be better to make BankAccount be an abstract class?**
 
-I started to change the application into a console application in which the user could select type of account from an enum. However I got confused when trying to write the constructors. As currently built, user can create an account from the base class which means that "AccountType" might be set in two places. I didn't know where to locate the enum so both the base class and derived class could have access. I guess I need more practice with polymorphism.
+I started to change the application into a console application in which the user could select type of account from an enum. However I got confused when trying to write the constructors. As currently built, user can create an account from the base class or a derived class which means that "AccountType" may be set twice. I didn't know where to locate the enum so both the base class and derived class could have access. I guess I need more practice with polymorphism.
