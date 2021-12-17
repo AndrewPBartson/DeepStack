@@ -8,7 +8,7 @@ This code is from a tutorial from Microsoft about C# and OOP principles. Althoug
 
 [**BankAccount Tutorial - Part 1**](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/classes)
 
-[**BankAccount Tutorial - Part 1**](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop)
+[**BankAccount Tutorial - Part 2**](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop)
 
 ---
 
